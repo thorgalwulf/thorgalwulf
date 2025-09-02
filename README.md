@@ -6,7 +6,3 @@
 ## Projects
 - ML: https://github.com/thorgalwulf/machine_learning_projects
 - Path Tracer: https://github.com/thorgalwulf/path_tracer_vulkan
-
-## Area of Interest
-- Machine Learning
-- GPU Programming
