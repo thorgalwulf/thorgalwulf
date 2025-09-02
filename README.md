@@ -1,7 +1,7 @@
 ## Bio
 - Site: https://thorgalwulf.github.io/index.md.html
-- CV Resume: https://github.com/thorgalwulf/resume/blob/main/resume_weslley_batista.pdf
-- Currículo: https://github.com/thorgalwulf/resume/blob/main/resume_weslley_batista_pt.pdf
+- CV Resume: https://thorgalwulf.github.io/resume/resume_weslley_batista.pdf
+- Currículo: https://thorgalwulf.github.io/resume/resume_weslley_batista_pt.pdf
 - Contact: weslleyskah@gmail.com
 
 ## Projects
